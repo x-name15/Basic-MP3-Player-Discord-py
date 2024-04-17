@@ -10,3 +10,8 @@ A while ago I carried out this experiment in replit, I wanted to see how FFmpeg 
 2. The files for the music always will be MP3, DO NOT PUT OTHER FORMAT LIKE FLAC OR WAV
 3. The embed on discord will only display if the list is under 1024 caracters, keep that in mind if you want to add more music in the files
 
+## Examples of the commands working
+
+![commands1likeidkwawawa](/Examples/commands1.PNG)
+
+![commands2nomasxqandoaburridoenclasewvoyajalar](/Examples/commands2.PNG)
